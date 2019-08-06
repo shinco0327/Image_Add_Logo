@@ -338,3 +338,13 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+# Picture For Testing
+Picture/
+logo.png
+
+# Floder of Picture After Processing
+AfterImg/
+
+ 
+ 
